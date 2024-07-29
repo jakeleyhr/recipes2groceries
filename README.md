@@ -52,4 +52,4 @@ For example:
 ```
 meat:ground beef:10oz
 ```
-The categories can be anything you choose, but I recommend you keep them consistent. Each ingredient in the list must be separated by a comma, and the entire list must be contained in curly brackets {}.
+The categories can be anything you choose, but I recommend you keep them consistent. Each ingredient in the list must be separated by a comma, and the entire list must be contained in curly brackets {}. All the (correctly formatted) recipes and ingredients in the excel file will show up in the recipes2groceries GUI after saving the excel file and reopening the GUI.
